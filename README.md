@@ -1,8 +1,8 @@
-## 👩‍💻 About me:
-I'm a self-taught passionate developer from Brazil 🇧🇷  
-Systems development student at SENAI
+## 👩‍💻 Sobre mim:
+Sou estudante do SESI SENAI, terminando de cursar o curso técnico integrado de Desenvolvimento de Sistemas,
+realizando tarefas relacionadas a testes de sistemas, implementação de sistemas e desenvimento de aplicativos e programas.
 
-## 🌐 Connect with me:
+## 🌐 Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-loffi-a5903a309/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arth_loffi/) 
