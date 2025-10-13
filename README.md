@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👩‍💻 About me:
+I'm a self-taught passionate developer from Brazil 🇧🇷  
+Systems development student at SENAI
 
-<!--
-**ArthurLoffi/ArthurLoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect with me:
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-loffi-a5903a309/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arth_loffi/) 
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:arthurloffisoares@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages and Tools:
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/php.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40"/>
+</p>
