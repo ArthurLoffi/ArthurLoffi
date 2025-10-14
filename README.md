@@ -1,5 +1,5 @@
 ## 👩‍💻 Sobre Mim:
-Sou estudante do SESI SENAI, terminando de cursar o curso técnico integrado de Desenvolvimento de Sistemas,
+Sou estudante do SESI SENAI, terminando de cursar o técnico integrado de Desenvolvimento de Sistemas,
 realizando tarefas relacionadas a testes de sistemas, implementação de sistemas e desenvimento de aplicativos e programas.
 
 ## 🌐 Contato:
