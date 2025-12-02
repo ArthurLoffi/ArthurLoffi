@@ -19,13 +19,13 @@ realizando tarefas relacionadas a testes de sistemas, implementação de sistema
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="40" height="40"/>
 </p>
 
-## Estatísticas GitHub
+## 📊 Estatísticas GitHub:
 
 | Estatísticas | Linguagens |
 |-------------|------------|
 | ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ArthurLoffi&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ArthurLoffi&layout=compact&theme=github_dark) |
 
-## Mais projetos
+## ➕ Mais projetos:
 
 Visite meu perfil de estudante:
 <a href="https://github.com/ArthurOscar/">Clique Aqui</a>
