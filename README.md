@@ -1,15 +1,9 @@
-## 👩‍💻 Sobre Mim:
-Sou estudante do SESI SENAI, terminando de cursar o técnico integrado de Desenvolvimento de Sistemas,
-realizando tarefas relacionadas a testes de sistemas, implementação de sistemas e desenvolvimento de aplicativos e sistemas.
-
-## 🌐 Contato:
-
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-loffi-a5903a309/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arth_loffi/) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=arthurloffi5@gmail.com&su=Contato%20via%20GitHub)
 
-## 🛠 Linguagens de domínio:
-
+## 🛠 Languages:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
@@ -19,13 +13,11 @@ realizando tarefas relacionadas a testes de sistemas, implementação de sistema
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="40" height="40"/>
 </p>
 
-## 📊 Estatísticas GitHub:
+## 📊 GitHub Stats:
+| Stats | Languages | Streak |
+|-------|-----------|--------|
+| ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ArthurLoffi&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ArthurLoffi&layout=compact&theme=github_dark) | ![GitHub Streak](https://streak-stats.demolab.com?user=ArthurLoffi&theme=github-dark&hide_border=false) |
 
-| Estatísticas | Linguagens |
-|-------------|------------|
-| ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ArthurLoffi&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ArthurLoffi&layout=compact&theme=github_dark) |
-
-## ➕ Mais projetos:
-
-Visite meu perfil de estudante:
-<a href="https://github.com/ArthurOscar/">Clique Aqui</a>
+## ➕ More Projects:
+Visit my student profile:
+<a href="https://github.com/ArthurOscar/">Click Here</a>
