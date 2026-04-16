@@ -5,12 +5,12 @@
 
 ## 🛠 Languages:
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=YrKoPXb4jv9l&format=png&color=000000" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=YrKoPXb4jv9l&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="40"/>
 </p>
 
 ## 📊 GitHub Stats:
