@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats:
 | Stats | Languages | Streak |
 |-------|-----------|--------|
-| ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ArthurLoffi&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ArthurLoffi&layout=compact&theme=github_dark) | ![GitHub Streak](https://streak-stats.demolab.com?user=ArthurLoffi&theme=github-dark&hide_border=false) |
+| ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ArthurLoffi&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ArthurLoffi&layout=compact&theme=github_dark)
 
 ## ➕ More Projects:
 Visit my student profile:
