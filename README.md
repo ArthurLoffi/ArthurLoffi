@@ -16,8 +16,8 @@
 </p>
 
 ## 📊 GitHub Stats:
-| Stats | Languages | Streak |
-|-------|-----------|--------|
+| Stats | Languages |
+|-------|-----------|
 | ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ArthurLoffi&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ArthurLoffi&layout=compact&theme=github_dark)
 
 ## ➕ More Projects:
