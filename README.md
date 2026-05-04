@@ -13,6 +13,7 @@
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="40" title="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/windows-10.png" width="40" title="Windows"/>
   <img src="https://img.icons8.com/color/48/typescript.png" width="40" title="Typescript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" width="40" title="React"/>
 </p>
 
 ## 📊 GitHub Stats:
