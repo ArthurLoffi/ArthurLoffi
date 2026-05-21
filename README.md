@@ -3,5 +3,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arth_loffi/) 
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=arthurloffi5@gmail.com&su=Contato%20via%20GitHub)
 
-## 🛠 Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,react,go,python,git,docker,mysql,postgresql,windows)](https://skillicons.dev)
+## 🛠 Technologies:
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,react,go,git,docker,mysql,postgresql)](https://skillicons.dev)
