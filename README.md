@@ -12,6 +12,23 @@
 
 ---
 
+## 🚀 Featured Project
+
+### [LightRDP](https://github.com/ArthurLoffi/LightRDP) &nbsp;`🚧 work in progress`
+
+A lightweight, peer-to-peer remote desktop tool. The host generates an access
+code, the client requests access with it and, once accepted, a window opens
+with the host's desktop. A small signaling server registers hosts and relays
+the connection handshake (SDP/ICE) over WebSocket.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/WebRTC-333333.svg?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/WebSocket-010101.svg?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 Technologies I work with and explore through my projects.

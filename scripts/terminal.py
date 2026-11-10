@@ -1,27 +1,22 @@
 #!/usr/bin/env python3
-"""Generates assets/terminal.svg — an animated terminal for the profile README.
-
-Pure SVG + CSS (no JavaScript), so it animates when GitHub renders it as an image.
-Edit SCRIPT below and run:  python3 scripts/terminal.py
-"""
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-# ── Theme (Tokyo Night) ────────────────────────────────────────────────
+
 BG, BAR, BORDER = "#1a1b26", "#16161e", "#2f334d"
 FG, DIM = "#c0caf5", "#565f89"
 GREEN, BLUE, PURPLE = "#9ece6a", "#7aa2f7", "#bb9af7"
 CYAN, ORANGE, YELLOW, RED = "#7dcfff", "#ff9e64", "#e0af68", "#f7768e"
 
-# ── Layout ────────────────────────────────────────────────────────────
+
 FONT_SIZE = 14
-CW = 8.4            # forced width of each character (textLength keeps it exact)
-LH = 22             # line height
-PAD_X, TOP = 24, 64 # text origin
+CW = 8.4
+LH = 22
+PAD_X, TOP = 24, 64
 WIDTH = 820
 
-TYPE_SPEED = 0.055  # seconds per typed character
-HOLD = 6.0          # seconds the finished screen stays before restarting
+TYPE_SPEED = 0.055
+HOLD = 6.0
 
 USER = [("arthur", GREEN), ("@", DIM), ("joinville", BLUE), (":", DIM), ("~", PURPLE), ("$ ", FG)]
 
@@ -45,7 +40,6 @@ def arr(key, items, comma=True):
     return parts
 
 
-# Each step: ("cmd", "typed command") or ("out", [segments]) or ("gap", px)
 SCRIPT = [
     ("cmd", "whoami"),
     ("out", [s("Arthur", YELLOW), s(" · Software Engineering Student · Joinville, SC, Brazil", FG)]),
@@ -54,24 +48,28 @@ SCRIPT = [
     ("out", [s("{", FG)]),
     ("out", kv("role", "Software Engineering Student")),
     ("out", kv("semester", "2", raw=True)),
-    ("out", arr("focus", ["automation", "internal tools", "backend"])),
+    ("out", arr("focus", ["automation", "internal tools", "networking"])),
     ("out", arr("stack", ["TypeScript", "React", "Go"])),
     ("out", arr("infra", ["Docker", "PostgreSQL", "MongoDB"])),
     ("out", kv("curious_about", "how software works under the hood", comma=False)),
     ("out", [s("}", FG)]),
     ("gap", 8),
     ("cmd", "ls ~/projects"),
-    ("out", [s("url-shortener-go  ", BLUE), s("rest-api-go  ", BLUE), s("task-queue  ", BLUE),
-             s("system-monitor  ", BLUE), s("asset-control", BLUE)]),
+    ("out", [s("LightRDP  ", YELLOW), s("url-shortener-go  ", BLUE), s("rest-api-go  ", BLUE),
+             s("task-queue  ", BLUE), s("system-monitor  ", BLUE), s("asset-control", BLUE)]),
+    ("gap", 8),
+    ("cmd", "cat ~/projects/LightRDP/about"),
+    ("out", [s("LightRDP", YELLOW), s(" — lightweight remote desktop, peer-to-peer", FG)]),
+    ("out", [s("built with ", DIM), s("Go", CYAN), s(" · ", DIM), s("WebRTC", CYAN), s(" · ", DIM),
+             s("WebSocket", CYAN), s("   [work in progress]", ORANGE)]),
     ("gap", 8),
     ("cmd", "echo $STATUS"),
     ("out", [s("● ", GREEN), s("Open to connect — let's build something together!", FG)]),
     ("gap", 8),
-    ("cmd", None),  # final idle prompt with blinking cursor
+    ("cmd", None),
 ]
 
 
-# ── Build the timeline ────────────────────────────────────────────────
 def build_with_pauses():
     t = 0.6
     y = TOP
@@ -138,7 +136,7 @@ def main():
             if it["final"]:
                 line.append(f'<rect class="blink" x="{x0:.1f}" y="{cy}" width="{CW:.1f}" height="{FONT_SIZE + 3}" fill="{FG}"/>')
             else:
-                # overlay (bg + cursor) slides right one character at a time, revealing the command
+
                 st, en = it["start"], it["end"]
                 hide = en + 0.3
                 css.append(
