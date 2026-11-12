@@ -16,7 +16,7 @@ PAD_X, TOP = 24, 64
 WIDTH = 820
 
 TYPE_SPEED = 0.055
-HOLD = 6.0
+HOLD = 10.0
 
 USER = [("arthur", GREEN), ("@", DIM), ("joinville", BLUE), (":", DIM), ("~", PURPLE), ("$ ", FG)]
 
